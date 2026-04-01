@@ -4,16 +4,18 @@
 <p align="center">
   💻 Full Stack Developer & AI Enthusiast from <b>Mysuru, India</b>  
   <br>
-  🚀 Passionate about building impactful projects & contributing to open source
+  🚀 Building real-world solutions using MERN & Machine Learning  
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Exploring *Full Stack Development* and *Machine Learning*  
-- 🌱 Currently working on *Thinkboard – a MERN Stack Note-Taking App*  
-- 💡 Interested in *AI, Data Science, and Scalable Web Systems*  
-- ⚡ Believe in *learning by building real-world projects*  
+
+- 🎓 Passionate about *Full Stack Development* & *AI/ML*  
+- 🧠 Currently building scalable and impactful applications  
+- 🌱 Exploring *Machine Learning, Cloud Deployment & System Design*  
+- 💡 Love solving real-world problems through code  
+- ⚡ Strong believer in *“Learn → Build → Improve → Repeat”*  
 
 ---
 
@@ -43,32 +45,71 @@
 
 ---
 
-## 🔭 Currently Working On
-- 🧠 *Thinkboard* — a MERN Stack note-taking web application  
-- 🏍 *Second Hand Bike Showroom* — system to simplify bike RC, insurance, and emission management  
-- 🤝 *Peer Collab* — platform to connect guides and peers for travel planning  
+## 🔭 Featured Projects
+
+### 🧠 Thinkboard  
+🔗 https://github.com/GirishAchar/Thinkboard  
+A MERN stack note-taking application with clean UI and efficient data handling.  
+- 📝 Create, edit, and manage notes  
+- ⚡ Fast and responsive interface  
+- 🔐 Backend API with secure data flow  
+
+---
+
+### 🧬 Multi-Slice Medical Image Steganography  
+A cybersecurity-focused project for hiding sensitive data in medical images.  
+- 🔐 AES-256 Encryption  
+- 🧠 ML-based slice selection  
+- 🖼 Secure multi-layer data embedding  
+
+---
+
+### 🏍 Second Hand Bike Showroom  
+A system to simplify vehicle documentation processes.  
+- 📄 RC management  
+- 🛡 Insurance tracking  
+- 🌱 Emission record handling  
+
+---
+
+### 🌍 Peer Collab  
+A collaborative platform connecting guides and travelers.  
+- 🧭 Guides post trips  
+- ✅ Admin approval system  
+- 🤝 Peer participation & planning  
+
+---
+
+### 📝 Online Examination System  
+🔗 https://github.com/GirishAchar/Online-Examination-system  
+A web-based exam platform for conducting and managing tests.  
+- ⏱ Timed exams  
+- 📊 Result tracking  
+- 👨‍💻 Admin & student roles  
 
 ---
 
 ## 📚 Currently Exploring
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![MERN Stack](https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Cloud Deployment](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
-## 📂 Featured Projects
-- [🧠 Thinkboard](https://github.com/GirishAchar/Thinkboard) — MERN-based note-taking web app  
-- [🏍 Second Hand Bike Showroom](#) — Vehicle management system for RC, insurance, and emission  
-- [🌍 Peer Collab](#) — Guide-Peer trip coordination platform  
+- 🤖 Machine Learning & AI Systems  
+- 🌐 Advanced MERN Architecture  
+- ☁ Cloud Deployment (AWS / GCP)  
+- ⚙ Scalable Backend Design  
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/girish-acharya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/girish-acharya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -86,8 +127,12 @@
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
-Let's connect and collaborate to build something amazing 🚀  
+## 💡 Quote I Follow
+
+> “First, solve the problem. Then, write the code.” – John Johnson  
 
 ---
 
+⭐ *Thanks for visiting my profile!*  
+💬 Open to collaboration, internships, and exciting projects  
+🚀 Let’s build something impactful together!

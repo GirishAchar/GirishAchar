@@ -2,20 +2,21 @@
 <p align="center"><em>"Code. Create. Collaborate."</em></p>
 
 <p align="center">
-  💻 Full Stack Developer & AI Enthusiast from <b>Mysuru, India</b>  
+  💻 Full Stack Developer & Software Developer  
   <br>
-  🚀 Building real-world solutions using MERN & Machine Learning  
+  ☕ Strong in Java & Data Structures and Algorithms  
+  <br>
+  🚀 Passionate about building real-world applications  
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Passionate about *Full Stack Development* & *AI/ML*  
-- 🧠 Currently building scalable and impactful applications  
-- 🌱 Exploring *Machine Learning, Cloud Deployment & System Design*  
-- 💡 Love solving real-world problems through code  
-- ⚡ Strong believer in *“Learn → Build → Improve → Repeat”*  
+- 🎓 Focused on *Full Stack Development*  
+- 💻 Skilled in *Java, DSA, and Web Development*  
+- 🌱 Continuously improving problem-solving and system design  
+- ⚡ Believe in *learning by building real-world projects*  
 
 ---
 
@@ -37,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -45,56 +46,24 @@
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Projects
 
 ### 🧠 Thinkboard  
-🔗 https://github.com/GirishAchar/Thinkboard  
-A MERN stack note-taking application with clean UI and efficient data handling.  
-- 📝 Create, edit, and manage notes  
-- ⚡ Fast and responsive interface  
-- 🔐 Backend API with secure data flow  
-
----
-
-### 🧬 Multi-Slice Medical Image Steganography  
-A cybersecurity-focused project for hiding sensitive data in medical images.  
-- 🔐 AES-256 Encryption  
-- 🧠 ML-based slice selection  
-- 🖼 Secure multi-layer data embedding  
-
----
-
-### 🏍 Second Hand Bike Showroom  
-A system to simplify vehicle documentation processes.  
-- 📄 RC management  
-- 🛡 Insurance tracking  
-- 🌱 Emission record handling  
-
----
-
-### 🌍 Peer Collab  
-A collaborative platform connecting guides and travelers.  
-- 🧭 Guides post trips  
-- ✅ Admin approval system  
-- 🤝 Peer participation & planning  
-
----
+A MERN stack note-taking application that allows users to create, edit, and manage notes with a clean and responsive interface.
 
 ### 📝 Online Examination System  
-🔗 https://github.com/GirishAchar/Online-Examination-system  
-A web-based exam platform for conducting and managing tests.  
-- ⏱ Timed exams  
-- 📊 Result tracking  
-- 👨‍💻 Admin & student roles  
+A web-based platform for conducting exams with features like timed tests, result management, and role-based access.
+
+### 🏍 Second Hand Bike Showroom  
+A system designed to manage vehicle-related processes including RC, insurance, and emission tracking.
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Currently Improving
 
-- 🤖 Machine Learning & AI Systems  
-- 🌐 Advanced MERN Architecture  
-- ☁ Cloud Deployment (AWS / GCP)  
-- ⚙ Scalable Backend Design  
+- 💡 Data Structures & Algorithms (Java)  
+- 🌐 Full Stack Development  
+- ⚙ Backend & System Design  
 
 ---
 
@@ -118,7 +87,7 @@ A web-based exam platform for conducting and managing tests.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GirishAchar&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GirishAchar&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GirishAchar&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
@@ -127,12 +96,5 @@ A web-based exam platform for conducting and managing tests.
 
 ---
 
-## 💡 Quote I Follow
-
-> “First, solve the problem. Then, write the code.” – John Johnson  
-
----
-
-⭐ *Thanks for visiting my profile!*  
-💬 Open to collaboration, internships, and exciting projects  
-🚀 Let’s build something impactful together!
+⭐ Thanks for visiting my profile!  
+🚀 Open to opportunities and collaboration
